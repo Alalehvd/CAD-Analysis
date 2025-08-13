@@ -1,0 +1,1 @@
+No GO term similarity edges (or GOSemSim unavailable). Dot/bar saved instead.
