@@ -153,3 +153,7 @@ cython_debug/
 
 # My Files
 Raw/
+paper2012.pdf
+.DS_Store
+._*
+.*log
