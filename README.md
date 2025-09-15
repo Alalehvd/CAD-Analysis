@@ -63,13 +63,6 @@ The goal is to identify differentially expressed genes (DEGs), perform functiona
 
 ---
 
-## 📜 Citation
-If you use this workflow, please cite:
-- NCBI GEO: [GSE39278](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE39278)  
-- Original study: Olivry T, et al. (Year). *Title of the study*. Journal Name. DOI.
-
----
-
 ## 🤝 Contributing
 Contributions are welcome!  
 - Please open an **issue** for bug reports or questions  
